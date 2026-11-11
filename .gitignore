@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+numbers_generator.py
